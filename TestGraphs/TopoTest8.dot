@@ -1,0 +1,8 @@
+//Tests another directed, acyclic graph
+
+digraph g {
+	a -> b
+	a -> c
+	a -> d
+	b -> d
+}

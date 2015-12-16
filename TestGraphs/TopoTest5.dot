@@ -1,0 +1,5 @@
+//Tests a minimal graph
+
+digraph g {
+	a -> b
+}

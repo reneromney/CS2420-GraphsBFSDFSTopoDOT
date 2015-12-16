@@ -1,0 +1,6 @@
+﻿//Tests a undirected graph
+
+graph G {
+	a -- b
+	b -- c
+}
